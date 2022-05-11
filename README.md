@@ -17,7 +17,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra conteúdo sobre programação me segue nas redes abaixo! Compartilharei o que eu puder de conhecimento por lá.
  
 <div> 
   <a href="https://www.youtube.com/GuilhermeEspinosa" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
