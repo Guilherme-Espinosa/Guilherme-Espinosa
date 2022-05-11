@@ -1,5 +1,4 @@
 ## Bem-vindo(a) ao perfil do ElDraco-BR 😁
-## Hoje, 11.05.22 é meu segundo dia estudando sobre programação. Venho de outra área, Direito. Desenvolverei habilidades, acumularei conhecimentos e disponibilizarei aqui os projetos em que eu me envolver. Espero que gostem e espero poder contribuir ao máximo com todos dessa área, que já me recebem tão bem.
 
  <div>
   <a href="https://github.com/ElDraco-BR">
