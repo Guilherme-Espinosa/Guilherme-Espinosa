@@ -22,6 +22,6 @@
  <a href ="mailto:luiz5913.01@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/dev_espinosa" target="_blank"><img src="https://img.shields.io/twitter/follow/dev_espinosa?style=for-the-badge" target="_blank"></a>
  
-  ![Snake animation](https://github.com/ElDraco-BR/ELDraco-BR/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Guilherme-Espinosa/Guilherme-Espinosa/blob/output/github-contribution-grid-snake.svg)
 
 </div>
