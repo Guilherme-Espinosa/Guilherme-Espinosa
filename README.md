@@ -1,4 +1,18 @@
-## Bem-vindo(a) ao meu perfil! 😁
+# Olá, eu sou o Guilherme Espinosa.
+Seja bem-vindo(a) ao meu perfil! 😁
+
+## 🚀 Sobre mim
+
+Eu sou Desenvolvedor Web Front-end Jr. Pretendo me desenvolver ao máximo e me tornar Fullstack na área Web, mas espero um dia poder atuar em projetos como Metaverso e/ou de Inteligência Artificial. Ainda sou iniciante, mas sou bem disposto, persistente e hábil. </li>
+<ul>
+   <li>👩‍💻 Atualmente me ocupo com trabalhos fora da área de tecnologia, enquanto isso estudo e me preparo pra agarrar uma oportunidade na área tecnológica. </li>
+
+   <li>🧠 Estou aprendendo muito sobre as tecnologias bases do frontend (html, css e JS), mas também um pouco de outras tecnologias através da faculdade e do bootcamp que também estou fazendo. </li>
+
+   <li>🤔 Procuro ajuda com o que puderem ajudar, eu sou ensinável, curioso e persistente. </li>
+
+ <li>💬 Me pergunte sobre algo e se eu não souber, procurarei aprender pra te responder rs... </li>
+</ul>
 
  <div>
   <a href="https://github.com/Guilherme-Espinosa">
@@ -13,8 +27,7 @@
  
  <br>
  
-  ### Abaixo tem algumas redes pelas quais podemos trocar algumas ideias.
- 
+  ### 📫 Como entrar em contato comigo.
 <div> 
  <a href="https://www.linkedin.com/in/guilherme-espinosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.instagram.com/guilherme.espinosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
