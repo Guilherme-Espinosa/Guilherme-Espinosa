@@ -1,13 +1,14 @@
-# Olá, eu sou o Guilherme Espinosa.
+# Olá, eu sou o Guilherme Espinosa
 Seja bem-vindo(a) ao meu perfil! 😁
 
 ## 🚀 Sobre mim
 
-Eu sou Desenvolvedor Web Front-end Jr. Pretendo me desenvolver ao máximo e me tornar Fullstack na área Web, mas espero um dia poder atuar em projetos como Metaverso e/ou de Inteligência Artificial. Ainda sou iniciante, mas sou bem disposto, persistente e hábil. </li>
+Eu sou Desenvolvedor Web Front-end Jr. Pretendo me desenvolver ao máximo e me tornar Fullstack na área Web, mas espero um dia poder atuar em projetos como Metaverso e/ou de Inteligência Artificial. Ainda sou iniciante, mas sou bem disposto, persistente e hábil. 
+
 <ul>
    <li>👩‍💻 Atualmente me ocupo com trabalhos fora da área de tecnologia, enquanto isso estudo e me preparo pra agarrar uma oportunidade na área tecnológica. </li>
 
-   <li>🧠 Estou aprendendo muito sobre as tecnologias bases do frontend (html, css e JS), mas também um pouco de outras tecnologias através da faculdade e do bootcamp que também estou fazendo. </li>
+   <li>🧠 Estou aprendendo muito sobre as tecnologias basilares do frontend (html, css e JS), mas também um pouco de outras tecnologias e conceitos através da faculdade e do bootcamp que também estou fazendo. </li>
 
    <li>🤔 Procuro ajuda com o que puderem ajudar, eu sou ensinável, curioso e persistente. </li>
 
