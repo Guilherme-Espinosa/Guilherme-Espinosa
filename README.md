@@ -8,7 +8,7 @@ Eu sou Desenvolvedor Web Front-end Jr. Pretendo me desenvolver ao máximo e me t
 <ul>
    <li>👩‍💻 Atualmente me ocupo com trabalhos fora da área de tecnologia, enquanto isso estudo e me preparo pra agarrar uma oportunidade na área tecnológica. </li>
 
-   <li>🧠 Estou aprendendo muito sobre as tecnologias basilares do frontend (html, css e JS), mas também um pouco de outras tecnologias e conceitos através da faculdade e do bootcamp que também estou fazendo. </li>
+   <li>🧠 Estou aprendendo muito sobre as tecnologias basilares do frontend (html, css e JS), mas também um pouco de outras tecnologias e conceitos através da faculdade e dos projetos que também estou fazendo. </li>
 
    <li>🤔 Procuro ajuda com o que puderem ajudar, eu sou ensinável, curioso e persistente. </li>
 
