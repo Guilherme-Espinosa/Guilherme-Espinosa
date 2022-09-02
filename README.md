@@ -3,7 +3,7 @@ Seja bem-vindo(a) ao meu perfil! 😁
 
 ## 🚀 Sobre mim
 
-Eu sou Desenvolvedor Web Front-end Jr. Pretendo me desenvolver ao máximo e me tornar Fullstack na área Web, mas espero um dia poder atuar em projetos como Metaverso e/ou de Inteligência Artificial. Ainda sou iniciante, mas sou bem disposto, persistente e hábil. 
+<p>Eu sou Desenvolvedor Web Front-end (nível junior). Pretendo me desenvolver ao máximo e me tornar Fullstack na área Web, mas espero mesmo é um dia poder atuar em projetos como Metaverso e/ou de Inteligência Artificial. Ainda sou iniciante, mas sou bem disposto, persistente e hábil. </p>.
 
 <ul>
    <li>👩‍💻 Atualmente me ocupo com trabalhos fora da área de tecnologia, enquanto isso estudo e me preparo pra agarrar uma oportunidade na área tecnológica. </li>
