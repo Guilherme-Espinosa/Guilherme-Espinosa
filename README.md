@@ -1,16 +1,19 @@
 # Olá, eu sou o Guilherme Espinosa
 Seja bem-vindo(a) ao meu perfil! 😁
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/105338579/188544303-cee2756d-4092-4f47-abd6-adf4b4e72ae2.gif)
+
+
 ## 🚀 Sobre mim
 
-<p>Eu sou Desenvolvedor Web Front-end (nível junior). Pretendo me desenvolver ao máximo e me tornar Fullstack na área Web, mas espero mesmo é um dia poder atuar em projetos como Metaverso e/ou de Inteligência Artificial. Ainda sou iniciante, mas sou bem disposto, persistente e hábil. </p>
+<p>Eu sou Desenvolvedor Front-end web (nível junior). Pretendo me desenvolver ao máximo e me tornar Fullstack na área Web, mas espero mesmo é um dia ter a oportunidade de atuar em projetos como Metaverso e/ou de Inteligência Artificial. Ainda sou iniciante, mas sou bem disposto, persistente e hábil. </p>
 
 <ul>
-   <li>👩‍💻 Atualmente me ocupo com trabalhos fora da área de tecnologia, enquanto isso estudo e me preparo pra agarrar uma oportunidade na área tecnológica. </li>
+   <li>👩‍💻 Atualmente faço curso Análise e Desenvolvimento de Sistemas, além de estudar pela plataforma da Digital Innovation One - DIO e fazer uns projetos do Youtube ou eventos de programação. Me preparo com empenho para garantir que eu possa agarrar uma oportunidade na área tecnológica. </li>
 
-   <li>🧠 Estou aprendendo muito sobre as tecnologias basilares do frontend (html, css e JS), mas também um pouco de outras tecnologias e conceitos através da faculdade e dos projetos que também estou fazendo. </li>
+   <li>🧠 Estou aprendendo muito sobre as tecnologias basilares do frontend (HTML, CSS, Javascript e Git), mas também um pouco de outras tecnologias e conceitos através da faculdade, bootcamp da DIO e com os projetos que também estou fazendo. </li>
 
-   <li>🤔 Procuro ajuda com o que puderem ajudar, eu sou ensinável, curioso e persistente. </li>
+   <li>🤔 Procuro ajuda com o que puderem ajudar, eu sou ensinável, curioso e persistente. Feedbacks, dicas, conselhos e histórias vividas são ótimas maneiras de se ganhar um pouco da experiência de terceiros. </li>
 
  <li>💬 Me pergunte sobre algo e se eu não souber, procurarei aprender pra te responder rs... </li>
 </ul>
