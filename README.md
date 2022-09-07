@@ -1,12 +1,9 @@
-# Olá, eu sou o Guilherme Espinosa
+# ![Meu gif](https://user-images.githubusercontent.com/105338579/188969238-ee3b2810-e610-4681-98a6-0ab00027df7c.gif) Olá, eu sou o Guilherme Espinosa 
 Seja bem-vindo(a) ao meu perfil! 😁
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/105338579/188544303-cee2756d-4092-4f47-abd6-adf4b4e72ae2.gif)
-
 
 ## 🚀 Sobre mim
 
-<p>Eu sou Desenvolvedor Front-end web (nível junior). Pretendo me desenvolver ao máximo e me tornar Fullstack na área Web, mas espero mesmo é um dia ter a oportunidade de atuar em projetos como Metaverso e/ou de Inteligência Artificial. Ainda sou iniciante, mas sou bem disposto, persistente e hábil. </p>
+<p>Eu sou Desenvolvedor Front-end-web (nível junior). Pretendo me desenvolver ao máximo e me tornar Fullstack na área Web, mas espero mesmo é um dia ter a oportunidade de atuar em projetos como Metaverso e/ou de Inteligência Artificial. Ainda sou iniciante, mas sou bem disposto, persistente e hábil. </p>
 
 <ul>
    <li>👩‍💻 Atualmente faço curso Análise e Desenvolvimento de Sistemas, além de estudar pela plataforma da Digital Innovation One - DIO e fazer uns projetos do Youtube ou eventos de programação. Me preparo com empenho para garantir que eu possa agarrar uma oportunidade na área tecnológica. </li>
