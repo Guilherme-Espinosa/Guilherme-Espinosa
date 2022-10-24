@@ -3,7 +3,7 @@
  <tr><td><a href="https://github.com/Guilherme-Espinosa/Guilherme-Espinosa/blob/main/README-en.md">:us: English</a></td></tr>
 </table>
 
-![Meu gif](https://user-images.githubusercontent.com/105338579/188969238-ee3b2810-e610-4681-98a6-0ab00027df7c.gif) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ronoto+mono&size=21&pause=1000&color=42C920&width=435&lines=Oi%2C+meu+nome+%C3%A9+Guilherme+Espinosa.;Seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+![Meu gif](https://user-images.githubusercontent.com/105338579/188969238-ee3b2810-e610-4681-98a6-0ab00027df7c.gif) [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto+nono&size=21&pause=1000&color=42C920&width=435&lines=Hi%2C+my+name+is+Guilherme+Espinosa.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <h1>🚀 About me</h1>
 
