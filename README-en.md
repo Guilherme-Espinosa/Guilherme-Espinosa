@@ -5,20 +5,21 @@
 
 ![Meu gif](https://user-images.githubusercontent.com/105338579/188969238-ee3b2810-e610-4681-98a6-0ab00027df7c.gif) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ronoto+mono&size=21&pause=1000&color=42C920&width=435&lines=Oi%2C+meu+nome+%C3%A9+Guilherme+Espinosa.;Seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
-<h1>🚀 Sobre mim</h1>
+<h1>🚀 About me</h1>
 
 <p align="justify">
-Sou Desenvolvedor Web Front-End (nível júnior). Pretendo me desenvolver ao máximo e me tornar Fullstack com ênfase no front-end, enquanto me preparo cuidadosamente, para que um dia tenha a oportunidade de trabalhar em projetos como Metaverso e Inteligência Artificial. Ainda sou iniciante, mas sou otimista, persistente e habilidoso.
+I'm a Front-End Web Developer (junior level). I intend to develop myself to the fullest and become Fullstack with an emphasis on the front-end, while preparing myself carefully, so that one day I will have the opportunity to work on projects such as Metaverse and Artificial Intelligence. I'm still a beginner, but I'm optimistic, persistent and skilled.
 </p>
 
 <ul align="justify">
-   <li>👩‍💻 Atualmente faço o Curso Superior Tecnólogico de Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica (Centro Universitário União das Américas), além de também estudar pela plataforma da Digital Innovation One - DIO e fazer uns projetos do Youtube ou de eventos de programação, como os que a Rocketseat e a Codar.me fazem. Me preparo com empenho para garantir que eu possa agarrar uma oportunidade na área tecnológica. </li>
+   <li>👩‍💻 I am currently taking the Higher Technological Course in Systems Analysis and Development at College Descomplica (Union of Américas University Center), as well as studying through the Digital Innovation One - DIO platform and doing some Youtube projects or programming events, such as those that Rocketseat and Codar.me do. I prepare myself with commitment to ensure that I can seize an opportunity in the technological area. </li>
 
-   <li>🧠 Estou aprendendo muito sobre as tecnologias basilares do front-end (HTML, CSS, Javascript e Git), mas também um pouco de outras tecnologias e conceitos (Como boas práticas, semântica e clean code) através da faculdade, bootcamp da DIO e com os projetos que também venho fazendo. </li>
+   <li>🧠 
+I'm learning a lot about the basic technologies of the front-end (HTML, CSS, Javascript and Git), but also some other technologies and concepts (like best practices, semantics and clean code) through college, DIO bootcamp and with the projects that I've also been doing. </li>
 
-   <li>🤔 Ficaria muito grato se puderem me ajudar nessa caminhada. Eu sou ensinável, curioso e persistente. Gosto de discutir ideias, soluções sobre o porquê das coisas. Ouvir feedbacks, dicas, conselhos e histórias vividas são ótimas maneiras de se ganhar um pouco da experiência de terceiros. </li>
+   <li>🤔 I would be very grateful if you could help me on this journey. I am teachable, curious and persistent. I like to discuss ideas, solutions and why things happen. Hearing feedback, tips, advice and lived stories are great ways to gain a little bit of the experience of others. </li>
 
-   <li>💬 Me pergunte sobre algo e se eu não souber, pode ter certeza que procurarei aprender pra te responder (risos). </li>
+   <li>💬 Ask me about something and if I don't know, you can be sure I'll try to learn to answer you (laughs). </li>
 </ul>
 
 <div align="center" style="display: inline_block"><br>
@@ -42,7 +43,7 @@ Sou Desenvolvedor Web Front-End (nível júnior). Pretendo me desenvolver ao má
 </div>
 <br>
  
-<h3 align="center"> 📫 Como entrar em contato comigo. </h3>
+<h3 align="center"> 📫 How to contact me. </h3>
 <div align="center"> 
 	<a href="https://www.linkedin.com/in/guilherme-espinosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 	<a href="https://www.instagram.com/guilherme.espinosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
