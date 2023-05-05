@@ -4,7 +4,7 @@
  <tr><td><a href="https://github.com/Guilherme-Espinosa/Guilherme-Espinosa/blob/main/README-es.md">:es: Español</a></td></tr>
 </table>
   
-  ![Meu gif](https://user-images.githubusercontent.com/105338579/188969238-ee3b2810-e610-4681-98a6-0ab00027df7c.gif) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ronoto+mono&size=20&pause=1000&color=42C920&width=435&lines=Hola%2C+me+llamo+%C3%A9+Guilherme+Espinosa.;Bienvenido(a)+a+mi+perfil!)](https://git.io/typing-svg)
+  ![Meu gif](https://user-images.githubusercontent.com/105338579/188969238-ee3b2810-e610-4681-98a6-0ab00027df7c.gif) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ronoto+mono&size=20&pause=1000&color=42C920&width=435&lines=Hola%2C+me+llamo+Guilherme+Espinosa.;Bienvenido(a)+a+mi+perfil!)](https://git.io/typing-svg)
   
 <article align="justify">
 	<h1 align="center"> SOBRE MIM</h1>
