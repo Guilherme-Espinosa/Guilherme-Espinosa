@@ -1,4 +1,4 @@
-<table align="top-right">
+<table align="right">
  <tr><td><a href="https://github.com/Guilherme-Espinosa/Guilherme-Espinosa/blob/main/README.md">:brazil: Português</a></td></tr> 
  <tr><td><a href="https://github.com/Guilherme-Espinosa/Guilherme-Espinosa/blob/main/README-en.md">:us: English</a></td></tr>
  <tr><td><a href="https://github.com/Guilherme-Espinosa/Guilherme-Espinosa/blob/main/README-es.md">:es: Español</a></td></tr>
