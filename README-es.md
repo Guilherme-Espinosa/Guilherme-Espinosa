@@ -28,8 +28,8 @@
 
 <div align="center">
   <a href="https://github.com/Guilherme-Espinosa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Espinosa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Espinosa&layout=compact&langs_count=6&theme=synthwave"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Espinosa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Espinosa&layout=compact&langs_count=6&theme=transparent"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -40,7 +40,7 @@
 </div>
 <br>
  
-<h3 align="center"> 📫 Como entrar em contato comigo. </h3>
+<h3 align="center"> 📫 Como contactarme. </h3>
 <div align="center"> 
 	<a href="https://www.linkedin.com/in/guilherme-espinosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 	<a href="https://www.instagram.com/guilherme.espinosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 

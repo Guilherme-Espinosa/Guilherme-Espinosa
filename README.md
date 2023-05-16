@@ -6,21 +6,18 @@
 
 ![Meu gif](https://user-images.githubusercontent.com/105338579/188969238-ee3b2810-e610-4681-98a6-0ab00027df7c.gif) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ronoto+mono&size=21&pause=1000&color=42C920&width=435&lines=Oi%2C+meu+nome+%C3%A9+Guilherme+Espinosa.;Seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
-<h1>🚀 Sobre mim</h1>
-
-<p align="justify">
-Sou Desenvolvedor Web Front-End (nível júnior). Pretendo me desenvolver ao máximo e me tornar Fullstack com ênfase no front-end, enquanto me preparo cuidadosamente, para que um dia tenha a oportunidade de trabalhar em projetos como Metaverso e Inteligência Artificial. Ainda sou iniciante, mas sou otimista, persistente e habilidoso.
+<article align="justify">
+	<h1 align="center">🚀 Sobre mim</h1>
+	<p align="justify">
+	👩‍💻&nbsp;&nbsp;&nbsp;&nbsp;Olá, sou um apaixonado por tecnologia em constante evolução. Atualmente, sou Desenvolvedor Web Front-End júnior, buscando me tornar um profissional Fullstack com forte ênfase no front-end. Meu objetivo é contribuir para o desenvolvimento de projetos futurísticos, como o Metaverso e Inteligência Artificial. Estou empenhado em me aprimorar e estou sempre procurando oportunidades para desenvolver minhas habilidades.
+	</p>
+	<p align="justify">
+	🧠&nbsp;&nbsp;&nbsp;&nbsp;Actualmente, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Descomplica (Centro Universitário União das Américas) e estudando pela plataforma da Digital Innovation One - DIO. Também adoro participar de eventos e projetos de programação, como os oferecidos pela Rocketseat e Codar.me, para aprimorar minhas habilidades e aprender novas tecnologias. Estou sempre em busca de desafios e gosto de discutir ideias e soluções para melhorar meu trabalho. Me considero uma pessoa ensinável, curiosa e persistente, e estou sempre aberto a feedbacks e conselhos.
+	</p>
+	<p align="justify">
+	🤔&nbsp;&nbsp;&nbsp;&nbsp;Me pergunte sobre qualquer coisa e farei o possível para responder com precisão e rapidez. Mal posso esperar para ver o que o futuro me reserva neste campo em constante evolução.
 </p>
-
-<ul align="justify">
-   <li>👩‍💻 Atualmente faço o Curso Superior Tecnólogico de Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica (Centro Universitário União das Américas), além de também estudar pela plataforma da Digital Innovation One - DIO e fazer uns projetos do Youtube ou de eventos de programação, como os que a Rocketseat e a Codar.me fazem. Me preparo com empenho para garantir que eu possa agarrar uma oportunidade na área tecnológica. </li>
-
-   <li>🧠 Estou aprendendo muito sobre as tecnologias basilares do front-end (HTML, CSS, Javascript e Git), mas também um pouco de outras tecnologias e conceitos (Como boas práticas, semântica e clean code) através da faculdade, bootcamp da DIO e com os projetos que também venho fazendo. </li>
-
-   <li>🤔 Ficaria muito grato se puderem me ajudar nessa caminhada. Eu sou ensinável, curioso e persistente. Gosto de discutir ideias, soluções sobre o porquê das coisas. Ouvir feedbacks, dicas, conselhos e histórias vividas são ótimas maneiras de se ganhar um pouco da experiência de terceiros. </li>
-
-   <li>💬 Me pergunte sobre algo e se eu não souber, pode ter certeza que procurarei aprender pra te responder (risos). </li>
-</ul>
+</article>
 
 <div align="center" style="display: inline_block"><br>
 	<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,8 +28,8 @@ Sou Desenvolvedor Web Front-End (nível júnior). Pretendo me desenvolver ao má
 
 <div align="center">
   <a href="https://github.com/Guilherme-Espinosa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Espinosa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Espinosa&layout=compact&langs_count=6&theme=synthwave"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Espinosa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Espinosa&layout=compact&langs_count=6&theme=transparent"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
