@@ -7,7 +7,7 @@
   ![Meu gif](https://user-images.githubusercontent.com/105338579/188969238-ee3b2810-e610-4681-98a6-0ab00027df7c.gif) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ronoto+mono&size=20&pause=1000&color=42C920&width=435&lines=Hola%2C+me+llamo+Guilherme+Espinosa.;Bienvenido(a)+a+mi+perfil!)](https://git.io/typing-svg)
   
 <article align="justify">
-	<h1 align="center"> SOBRE MIM</h1>
+	<h1 align="center"> SOBRE MI</h1>
 	<p align="justify">
 	👩‍💻&nbsp;&nbsp;&nbsp;&nbsp;Hola, soy un apasionado de la tecnología en constante evolución. Actualmente, soy un Desarrollador Web Front-End junior, buscando convertirme en un profesional Fullstack con una fuerte énfasis en el front-end. Mi objetivo es contribuir al desarrollo de proyectos futuristas, como el Metaverso e Inteligencia Artificial. Estoy comprometido a mejorar y siempre buscando oportunidades para desarrollar mis habilidades.
 	</p>
@@ -29,7 +29,7 @@
 <div align="center">
   <a href="https://github.com/Guilherme-Espinosa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Espinosa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Espinosa&layout=compact&langs_count=6&theme=transparent"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Espinosa&layout=demo&langs_count=6&theme=transparent"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
