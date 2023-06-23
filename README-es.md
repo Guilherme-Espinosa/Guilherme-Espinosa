@@ -35,9 +35,9 @@
 
 <div align="center">
   <a href="https://github.com/Guilherme-Espinosa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Espinosa&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Espinosa&layout=compact&langs_count=6&theme=neon"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Espinosa&theme=neon&hide_border=false" height="150em"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Espinosa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Espinosa&layout=compact&langs_count=6&theme=transparent"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Espinosa&theme=transparent&hide_border=false" height="150em"/>
 </div>
 
 <!-- DevIcons -->
