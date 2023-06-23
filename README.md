@@ -9,10 +9,10 @@
 <article align="justify">
 	<h1 align="center">🚀 Sobre mim</h1>
 	<p align="justify">
-	👩‍💻&nbsp;&nbsp;&nbsp;&nbsp;Olá, sou um apaixonado por tecnologia e sigo em constante evolução. Sou Desenvolvedor Web Front-End júnior, atualmente buscando me tornar um profissional Fullstack com ênfase no front-end. Meu objetivo é contribuir para o desenvolvimento de projetos futurísticos, como o Metaverso e Inteligência Artificial. Estou empenhado em me aprimorar e estou sempre procurando oportunidades para desenvolver minhas habilidades.
+	👩‍💻&nbsp;&nbsp;&nbsp;&nbsp;Olá, sou um apaixonado por tecnologia e sigo em constante evolução. Sou Desenvolvedor Web Front-End júnior, atualmente buscando me tornar um profissional Fullstack com ênfase no front-end. Meu objetivo é contribuir para o desenvolvimento de projetos futurísticos. Estou empenhado em me aprimorar e estou sempre procurando oportunidades para desenvolver minhas habilidades.
 	</p>
 	<p align="justify">
-	🧠&nbsp;&nbsp;&nbsp;&nbsp;Sou estudante do Curso Superior Tecnológico de Análise e Desenvolvimento de Sistemas, pela Faculdade Descomplica (Centro Universitário União das Américas) e estudando pela plataforma da Digital Innovation One - DIO. Também adoro participar de eventos e projetos de programação, como os oferecidos pela Rocketseat e Codar.me, para aprimorar minhas habilidades e aprender novas tecnologias. Estou sempre em busca de desafios e gosto de discutir ideias e soluções para melhorar meu trabalho. Me considero uma pessoa ensinável, curiosa e persistente, e estou sempre aberto a feedbacks e conselhos.
+	🧠&nbsp;&nbsp;&nbsp;&nbsp;Sou estudante do Curso Superior Tecnológico de Análise e Desenvolvimento de Sistemas, pela Faculdade Descomplica (Centro Universitário União das Américas) e estudando pela plataforma da Digital Innovation One - DIO. Também adoro participar de eventos e projetos de programação, como os oferecidos pela Rocketseat, para aprimorar minhas habilidades e aprender novas tecnologias. Estou sempre em busca de desafios e gosto de discutir ideias e soluções para melhorar meu trabalho. Me considero uma pessoa ensinável, curiosa e persistente, e estou sempre aberto a feedbacks e conselhos.
 	</p>
 	<p align="justify">
 	🤔&nbsp;&nbsp;&nbsp;&nbsp;Me pergunte sobre qualquer coisa e farei o possível para responder com precisão e rapidez. Mal posso esperar para ver o que o futuro me reserva neste campo em constante evolução.
@@ -35,8 +35,9 @@
 
 <div align="center">
   <a href="https://github.com/Guilherme-Espinosa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Espinosa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Espinosa&layout=compact&langs_count=6&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Espinosa&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Espinosa&layout=compact&langs_count=6&theme=neon"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Espinosa&theme=neon&hide_border=false" height="150em"/>
 </div>
 
 <!-- DevIcons -->
