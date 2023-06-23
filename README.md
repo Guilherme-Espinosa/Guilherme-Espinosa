@@ -9,10 +9,10 @@
 <article align="justify">
 	<h1 align="center">🚀 Sobre mim</h1>
 	<p align="justify">
-	👩‍💻&nbsp;&nbsp;&nbsp;&nbsp;Olá, sou um apaixonado por tecnologia em constante evolução. Atualmente, sou Desenvolvedor Web Front-End júnior, buscando me tornar um profissional Fullstack com forte ênfase no front-end. Meu objetivo é contribuir para o desenvolvimento de projetos futurísticos, como o Metaverso e Inteligência Artificial. Estou empenhado em me aprimorar e estou sempre procurando oportunidades para desenvolver minhas habilidades.
+	👩‍💻&nbsp;&nbsp;&nbsp;&nbsp;Olá, sou um apaixonado por tecnologia e sigo em constante evolução. Sou Desenvolvedor Web Front-End júnior, atualmente buscando me tornar um profissional Fullstack com ênfase no front-end. Meu objetivo é contribuir para o desenvolvimento de projetos futurísticos, como o Metaverso e Inteligência Artificial. Estou empenhado em me aprimorar e estou sempre procurando oportunidades para desenvolver minhas habilidades.
 	</p>
 	<p align="justify">
-	🧠&nbsp;&nbsp;&nbsp;&nbsp;Sou estudante do Cusso Superior Tecnológico de Análise e Desenvolvimento de Sistemas, pela Faculdade Descomplica (Centro Universitário União das Américas) e estudando pela plataforma da Digital Innovation One - DIO. Também adoro participar de eventos e projetos de programação, como os oferecidos pela Rocketseat e Codar.me, para aprimorar minhas habilidades e aprender novas tecnologias. Estou sempre em busca de desafios e gosto de discutir ideias e soluções para melhorar meu trabalho. Me considero uma pessoa ensinável, curiosa e persistente, e estou sempre aberto a feedbacks e conselhos.
+	🧠&nbsp;&nbsp;&nbsp;&nbsp;Sou estudante do Curso Superior Tecnológico de Análise e Desenvolvimento de Sistemas, pela Faculdade Descomplica (Centro Universitário União das Américas) e estudando pela plataforma da Digital Innovation One - DIO. Também adoro participar de eventos e projetos de programação, como os oferecidos pela Rocketseat e Codar.me, para aprimorar minhas habilidades e aprender novas tecnologias. Estou sempre em busca de desafios e gosto de discutir ideias e soluções para melhorar meu trabalho. Me considero uma pessoa ensinável, curiosa e persistente, e estou sempre aberto a feedbacks e conselhos.
 	</p>
 	<p align="justify">
 	🤔&nbsp;&nbsp;&nbsp;&nbsp;Me pergunte sobre qualquer coisa e farei o possível para responder com precisão e rapidez. Mal posso esperar para ver o que o futuro me reserva neste campo em constante evolução.
@@ -26,18 +26,17 @@
 <div align="center"> 
 	<a href="https://www.linkedin.com/in/guilherme-espinosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 	<a href="https://www.instagram.com/guilherme.espinosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-	<a href="https://www.youtube.com/GuilhermeEspinosa" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-	<a href ="mailto:luiz5913.01@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<!-- <a href="https://www.youtube.com/GuilhermeEspinosa" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+	<a href ="mailto:espinosa@outlook.pt"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	<a href="https://twitter.com/dev_espinosa" target="_blank"><img src="https://img.shields.io/twitter/follow/dev_espinosa?style=for-the-badge" target="_blank"></a>
-	<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Guilherme-Espinosa/Guilherme-Espinosa?color=green&style=for-the-badge">
 </div>
 
 <!-- Vercel Stats -->
 
 <div align="center">
   <a href="https://github.com/Guilherme-Espinosa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Espinosa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Espinosa&layout=compact&langs_count=6&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Espinosa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Espinosa&layout=compact&langs_count=6&theme=transparent"/>
 </div>
 
 <!-- DevIcons -->
@@ -53,7 +52,8 @@
 	<img align="center" alt="Figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
 <br>
-<!--  -->
+
+<!-- Snake game -->
 
 <div align="center"> 
  
